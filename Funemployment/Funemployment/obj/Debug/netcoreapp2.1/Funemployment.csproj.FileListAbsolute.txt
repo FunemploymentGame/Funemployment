@@ -21,3 +21,7 @@ C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\D
 C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Funemployment.dll
 C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Funemployment.pdb
 C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Funemployment.csproj.CopyComplete
+C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Create.g.cshtml.cs
+C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Razor\Views\Technical\Index.g.cshtml.cs
+C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Razor\Views\Behavioral\Index.g.cshtml.cs
