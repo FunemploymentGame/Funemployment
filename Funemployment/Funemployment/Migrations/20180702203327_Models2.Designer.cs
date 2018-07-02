@@ -4,14 +4,16 @@ using Funemployment.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Funemployment.Migrations
 {
     [DbContext(typeof(FunemploymentDbContext))]
-    partial class FunemploymentDbContextModelSnapshot : ModelSnapshot
+    [Migration("20180702203327_Models2")]
+    partial class Models2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -25,8 +27,6 @@ namespace Funemployment.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("BQID");
-
                     b.Property<string>("Content");
 
                     b.Property<DateTime>("Date");
@@ -35,7 +35,7 @@ namespace Funemployment.Migrations
 
                     b.Property<int?>("PlayerID");
 
-                    b.Property<int>("TQID");
+                    b.Property<int>("QID");
 
                     b.HasKey("ID");
 
