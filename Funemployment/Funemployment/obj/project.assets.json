@@ -12225,23 +12225,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jermaine\\.nuget\\packages\\": {},
+    "C:\\Users\\Max\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jermaine\\CF\\401\\Projects\\Funemployment\\Funemployment\\Funemployment\\Funemployment.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\MidtermProject\\Funemployment\\Funemployment\\Funemployment\\Funemployment.csproj",
       "projectName": "Funemployment",
-      "projectPath": "C:\\Users\\Jermaine\\CF\\401\\Projects\\Funemployment\\Funemployment\\Funemployment\\Funemployment.csproj",
-      "packagesPath": "C:\\Users\\Jermaine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jermaine\\CF\\401\\Projects\\Funemployment\\Funemployment\\Funemployment\\obj\\",
+      "projectPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\MidtermProject\\Funemployment\\Funemployment\\Funemployment\\Funemployment.csproj",
+      "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\MidtermProject\\Funemployment\\Funemployment\\Funemployment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jermaine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
