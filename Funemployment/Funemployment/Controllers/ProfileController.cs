@@ -18,9 +18,9 @@ namespace Funemployment.Controllers
       _context = context;
     }
 
-    public IActionResult Index()
+    public IActionResult Index(Player player)
     {
-      return View();
+      return View(player);
     }
 
     [HttpGet]
