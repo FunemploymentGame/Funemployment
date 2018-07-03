@@ -12,5 +12,11 @@ namespace Funemployment.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Index(string username)
+        {
+            return RedirectToAction("Create", "Profile");
+        }
     }
 }

@@ -26,6 +26,7 @@ namespace Funemployment.Controllers
     [HttpGet]
     public IActionResult Create()
     {
+      
       // Add logic to check Db for same username
       return View();
     }
@@ -35,7 +36,7 @@ namespace Funemployment.Controllers
     {
       await _context.PlayerTable.AddAsync(player);
       await _context.SaveChangesAsync();
-      return View();
+      return RedirectToAction("Index");
     }
 
 

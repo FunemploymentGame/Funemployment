@@ -52,3 +52,5 @@ C:\Users\Jermaine\CF\401\Projects\Funemployment\Funemployment\Funemployment\obj\
 C:\Users\Jermaine\CF\401\Projects\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Funemployment.dll
 C:\Users\Jermaine\CF\401\Projects\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Funemployment.pdb
 C:\Users\Jermaine\CF\401\Projects\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Funemployment.csproj.CopyComplete
+C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\anthony\codefellows\401\Funemployment\Funemployment\Funemployment\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Highscores.g.cshtml.cs
