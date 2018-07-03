@@ -1,38 +1,51 @@
-Vision
-What is the vision of this product?
+# Vision
 
-What pain point does this project solve?
+Looking for a job can be strenuous and the impact of the preparation is rarely felt immediately. "Funemployement, the Game" creates scoring incentives for interview prepping where the user can measure their progress against other unemployed users. 
+ 
+No longer will it feel like pulling teeth to update resumes or reviewing interview questions. 
 
-Why should we care about your product?
+This product encourages it's users to stay active in their job hunt while having fun!
 
-Scope (In/Out)
-IN - What will your product do
-Describe the indvidual features that your product will do.
-OUT - What will your product not do.
-These should be features that you will make very clear from the beginning that you will not do during development. 
-HINT: Pick your battles wisely. This should only be 1 or 2 things.
-MVP
-What will your MVP be. What is your expected minimum end product?
 
-Stretch
-What stretch goals are you going to aim for?
+# Scope (In/Out)
+## IN 
 
-Functional Requirements
-List the functionality of your product. This will consist of tasks such as the following:
+* Query Interview Questions and solutions
+* Score users based on participation in adding questions and answers
 
-An Admin can create and delete user accounts
-A user can update their profile information
-A User can search all of the products in the inventory
-Non-Functional Requirements
-Non-functional requirements are requirements that are not directly related to the functionality of the application.
+## OUT - What will your product not do.
+* Provide applications or expand a users job search
 
-Examples include:
+# MVP
+ * User can Create, Read, Update, and Delete Interview Questions and answers
+ * Display scores of unemployed users
 
-Security
-Usability
-Testability
-etc….
-Pick 2 Non-functional requirements and describe it’s functionality in your application
+## Stretch
+ * User Authentication for repeated access
+ * Admin Authentication for maintaining user data and interview table. 
+ * Connecting users to build community
+ * Users score other user interview answers
 
-Data Flow
-Describe the flow of data in your application. This should descibe what happens from the time the user hits the site, to the time the request process completes.
+# Functional Requirements
+
+* user can Create, Read, Update, and Delete Interview Questions and answers. 
+* Scores attached to users 
+
+# Non-Functional Requirements
+
+* **Usability**
+* -- *Intuitive interface to encourage repeated use*
+* **Integrability**
+* -- *Custom API's are integrated with front end database**
+* **Emotional Factors**
+* -- *User has fun!*
+
+
+# Data Flow
+1. User "signs-in"
+2. User prompted to review Interview questions and answers
+3. If user adds answer or question, display improved score
+4. User views all Technical Questions
+5. User views all Behavioral Questions
+4. Display "View HighScores" for user to click page
+
